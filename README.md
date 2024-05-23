@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é Mariana Alves
+Meu nome é **Mariana Alves**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
